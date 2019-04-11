@@ -29,10 +29,8 @@ Dark+ theme for Tmux.
    
 ## Themes
 
-### Basic Themes
-
 **Default:**
-
+<img src="./screenshots/preview.png"/>
 
 ## License
 
