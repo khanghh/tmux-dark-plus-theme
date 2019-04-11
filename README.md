@@ -30,7 +30,12 @@ Dark+ theme for Tmux.
 ## Themes
 
 **Default:**
-<img src="./screenshots/preview.png"/>
+<p align="center"><img src="./screenshots/preview.png"/></p>
+
+## Plugin support
+### [tmux-prefix-highlight](https://github.com/tmux-plugins/tmux-prefix-highlight)
+Plugin that highlight the tmux *prefix*- key status indicator.
+<p align="center"><img src="./screenshots/prefix_highlight.png"/></p>
 
 ## License
 
