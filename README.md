@@ -2,6 +2,7 @@
 
 Dark+ theme for Tmux.
 
+<p align="center"><img src="./screenshots/preview1.png"/></p>
 
 ## Installation
 
@@ -12,7 +13,7 @@ Dark+ theme for Tmux.
         set -g @plugin 'khang-hoang/tmux-dark-plus-theme'
 
 2. Hit `prefix + I` to fetch the plugin and source it. The theme should now be working.
-
+<!-- 
 ### Install manually
 
 1. Clone repo to local machine:
@@ -26,15 +27,15 @@ Dark+ theme for Tmux.
 3. Reload your `~/.tmux.conf`:
 
         tmux source-file ~/.tmux.conf
-   
+    -->
 ## Themes
 
 **Default:**
-<p align="center"><img src="./screenshots/preview.png"/></p>
+<p align="center"><img src="./screenshots/preview2.png"/></p>
 
 ## Plugin support
 ### [tmux-prefix-highlight](https://github.com/tmux-plugins/tmux-prefix-highlight)
-Plugin that highlight the tmux *prefix*- key status indicator.
+Plugin that highlight the tmux *prefix*- key status.
 <p align="center"><img src="./screenshots/prefix_highlight.png"/></p>
 
 ## License
