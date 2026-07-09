@@ -33,7 +33,7 @@ Dark+ theme for Tmux.
 
 **Default:**
 
-<p align="center"><img src="./screenshots/preview2.png"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/khanghh/tmux-dark-plus-theme/bd4862438465f45a9d23713f7ec02ce3699e6014/preview1.png"/></p>
 
 ## Plugin support
 
@@ -41,7 +41,7 @@ Dark+ theme for Tmux.
 
 Plugin that highlight the tmux _prefix_- key status.
 
-<p align="center"><img src="./screenshots/prefix_highlight.png"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/khanghh/tmux-dark-plus-theme/bd4862438465f45a9d23713f7ec02ce3699e6014/prefix_highlight.png"/></p>
 
 ## License
 
